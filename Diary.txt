@@ -1,0 +1,69 @@
+Day 1:- learn day 22(learn Node basics, Express setup).
+
+Day 2:- revise day22(learn Node basics, Express setup),
+
+Day 3:- revise day22(learn Node basics, Express setup), learn day 23(Routes, controllers and Middlewares).
+
+Day 4:- learn day 24(MongoDB basics, Mongoose schema).
+
+Day 5:- revise day 22(learn Node basics, Express setup).
+
+Day 6:- revise day 23(Routes, controllers and Middlewares).
+
+Day 7:- revise day 22(learn Node basics, Express setup),23(Routes, controllers and Middlewares)
+
+Day 8:- revise and code day 24(MongoDB basics, Mongoose schema).
+
+Day 9:- learn day 25(CRUD APIs (Create, Read, Update, Delete).
+
+Day 10:- code day 25(CRUD APIs (Create, Read, Update, Delete).
+
+Day 11:- learn day 26(Authentication + JWT + Password Hashing).
+
+Day 12:- code day 26(Authentication + JWT + Password Hashing).
+
+Day 13:- learn day 27(File Upload + Multer).
+
+Day 14:- code day 27(File Upload + Multer).
+
+Day 15:- learn day 28(Error handling, Response structure).
+
+Day 16:- code day 28(Error handling, Response structure).
+
+Day 17:- learn day 29(Connect Backend ↔ Frontend (Angular + Node)).
+
+Day 18:- revise day 29(Connect Backend ↔ Frontend (Angular + Node)).
+
+Day 19:-revise day 8.
+
+Day 20:-code day 8.
+
+Day 21:-revise day 9 ANGULAR CORE CONCEPTS.
+
+Day 22:-code day 9 ANGULAR CORE CONCEPTS.
+
+Day 23:-revise day 10 SERVICES & DEPENDENCY INJECTION.
+
+Day 24:-learn Day 11 Routing,Router params.
+
+Day 25:- code Day 11 Routing,Router params.
+
+Day 26:- learn Day 12 Forms, Template vs Reactive forms.
+
+Day 27:- learn Day 13 HttpClient module, Get/Post calls.
+
+Day 28:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
